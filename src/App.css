@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.form-group{
+  background-color: lightgray;
+  padding-right: 2%;
+  padding-left: 2%;
+  width: 35%;
+}
+
+.form-control{
+  width: 100%;
+}
+
+#confirm {
+  padding-right: 2%;
+}
